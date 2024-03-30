@@ -31,12 +31,12 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 7. Run the script "http://localhost/hospital" (frontend)
 
 ## Contributors
-- Sarbojit Podder (L)
+- Deepmalya Acharya (L)
 - Pushan Mukhopadhay
 - Ankan Kundu
-- Anirban Mondal
-- Jyotiraditya Pal
-- Sudutta Bardhan
+- Sarbojit Poddar
+
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -46,4 +46,4 @@ We welcome feedback and contributions. Feel free to open an issue or submit a pu
 
 Thank you for using Care and Cure Hospital Management System. 
 
-**Team Bits N' Bytes**
+**Byte Hogs**
