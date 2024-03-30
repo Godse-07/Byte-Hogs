@@ -45,6 +45,15 @@ $_SESSION['errmsg']="Invalid username or password";
 		<link rel="stylesheet" href="assets/css/styles.css">
 		<link rel="stylesheet" href="assets/css/plugins.css">
 		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
+
+		<style>
+			.login{
+				background: url('hms3.jpg'); /* Add your background image */
+    			background-size: cover;  
+				opacity: 75%;
+			}
+		</style>
+
 	</head>
 	<body class="login">
 		<div class="row">

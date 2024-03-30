@@ -47,11 +47,11 @@
 								</a>
 								<ul class="sub-menu">
 									
-									<li>
+									<!-- <li>
 										<a href="add-patient.php">
 											<span class="title"> Add Patient</span>
 										</a>
-									</li>
+									</li> -->
 									<li>
 										<a href="manage-patient.php">
 											<span class="title"> Manage Patient </span>
@@ -61,7 +61,7 @@
 								</ul>
 								</li>
 <li>
-								<a href="search.php">
+								<!-- <a href="search.php">
 									<div class="item-content">
 										<div class="item-media">
 											<i class="ti-search"></i>
@@ -71,7 +71,7 @@
 										</div>
 									</div>
 								</a>
-							</li>
+							</li> -->
 
 						</ul>
 						<!-- end: CORE FEATURES -->

@@ -144,7 +144,7 @@ Total Patients :<?php echo htmlentities($num_rows);
 
 			<div class="col-sm-4">
 									<div class="panel panel-white no-radius text-center">
-										<div class="panel-body">
+										<!-- <div class="panel-body">
 											<span class="fa-stack fa-2x"> <i class="ti-files fa-1x text-primary"></i> <i class="fa fa-terminal fa-stack-1x fa-inverse"></i> </span>
 											<h2 class="StepTitle"> New Queries</h2>
 											
@@ -159,7 +159,7 @@ $num_rows22 = mysqli_num_rows($sql);
 												</a>
 												</a>
 											</p>
-										</div>
+										</div> -->
 									</div>
 								</div>
 

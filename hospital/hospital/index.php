@@ -18,7 +18,7 @@ echo "<script>window.location.href ='index.php'</script>";
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> Care & Cure </title>
+    <title> Hospital management System </title>
 
     <link rel="shortcut icon" href="assets/images/fav.jpg">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -43,15 +43,15 @@ echo "<script>window.location.href ='index.php'</script>";
         <div id="nav-head" class="header-nav">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-2 col-md-3  col-sm-12" style="color:#000;font-weight:bold; font-size:42px; margin-top: 1% !important;">Curify
+                    <div class="col-lg-2 col-md-3  col-sm-12" style="color:#000;font-weight:bold; font-size:42px; margin-top: 1% !important;">HMS
                        <a data-toggle="collapse" data-target="#menu" href="#menu" ><i class="fas d-block d-md-none small-menu fa-bars"></i></a>
                     </div>
                     <div id="menu" class="col-lg-8 col-md-9 d-none d-md-block nav-item">
                         <ul>
                             <li><a href="#">Home</a></li>
-                            <li><a href="#" onclick="window.open('assets/curify_YOGA_Manual.pdf')" >Yoga</a></li>
-                            <li><a href="#"onclick="window.open('assets/Performance_Nutrition.pdf')" >Diet</a></li>
+                            <li><a href="#services">Services</a></li>
                             <li><a href="#about_us">About Us</a></li>
+                            <li><a href="#gallery">Gallery</a></li>
                             <li><a href="Contact.html">Contact Us</a></li>
                             <li><a href="#logins">Logins</a></li>  
                         </ul>
@@ -81,11 +81,11 @@ echo "<script>window.location.href ='index.php'</script>";
 
             <div class="carousel-inner">
                 <div class="carousel-item ">
-                    <img class="d-block w-100" src="assets/images/slider/image1.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="assets/images/slider/P1.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">Care & Cure</h1>
-                    <h5 class="animated bounceInDown">Healthcare Management System</h5>  
+                    <h1 class="animated bounceInDown">CARE & CURE</h1>
+                    <h5 class="animated bounceInDown">Hospital Management System</h5>  
                     <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
                         
             
@@ -95,11 +95,11 @@ echo "<script>window.location.href ='index.php'</script>";
                 </div>
                 
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="assets/images/slider/image2.jpg" alt="Third slide">
+                    <img class="d-block w-100" src="assets/images/slider/P2.jpg" alt="Third slide">
                       <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">Care & Cure</h1>
-                    <h5 class="animated bounceInDown">Healthcare Management System</h5>  
+                    <h1 class="animated bounceInDown">CARE & CURE</h1>
+                    <h5 class="animated bounceInDown">Hospital Management System</h5>  
                     <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
             
                          
@@ -112,11 +112,11 @@ echo "<script>window.location.href ='index.php'</script>";
               
                 </div>
                 <div class="carousel-item ">
-                    <img class="d-block w-100" src="assets/images/slider/image3.jpg" alt="Second slide">
+                    <img class="d-block w-100" src="assets/images/slider/new.jpg" alt="Second slide">
                     <div class="carousel-cover"></div>
                     <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h1 class="animated bounceInDown">Care & Cure</h1>
-                    <h5 class="animated bounceInDown">Healthcare Management System</h5>  
+                    <h1 class="animated bounceInDown">CARE & CURE</h1>
+                    <h5 class="animated bounceInDown">Hospital Management System</h5>  
                     <h6 class="animated bounceInDown font1"> is an advanced software solution designed to streamline and optimize various administrative and clinical processes within healthcare facilities </h6>
                          
                     
@@ -161,7 +161,7 @@ echo "<script>window.location.href ='index.php'</script>";
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4 blog-smk" style="margin-left: 350px;">
+                    <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
                                 <img src="assets/images/doctors.jpg" alt="">
@@ -175,7 +175,7 @@ echo "<script>window.location.href ='index.php'</script>";
                         </div>
                     </div>
                     
-                    <!-- <div class="col-sm-4 blog-smk">
+                    <div class="col-sm-4 blog-smk">
                         <div class="blog-single">
 
                                 <img src="assets/images/admin2.jpg" alt="">
@@ -188,7 +188,7 @@ echo "<script>window.location.href ='index.php'</script>";
                                 </a>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                     
                     
                     
