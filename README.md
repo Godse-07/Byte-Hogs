@@ -1,8 +1,19 @@
-# HACKFEST (Topic: Smart Health Care)
+# URECKATHON (Track: Health Tech)
 
 ## Hospital Management System Care and Cure
 
-Welcome to the Hospital Management System **Care and Cure** repository, developed by **Team Bits N' Bytes**.
+Welcome to the Hospital Management System **Care and Cure** repository, developed by **Byte Hogs**.
+
+## Problem Statement
+The project addresses the challenge of managing healthcare resources effectively, including patient records, appointments, medical histories, and communication between healthcare providers and patients. It aims to solve the issues of inefficiency, long waiting times, and miscommunication often encountered in traditional healthcare systems.
+
+## Domain
+The project belongs to the healthcare industry domain.
+
+## Proposed Solution
+The Smart Health Care Management System provides a centralized platform for managing various aspects of healthcare, including patient records, appointments, prescriptions, and communication. By digitizing and automating these processes, the system improves efficiency, reduces errors, and enhances the overall quality of patient care.
+
+
 
 ## Introduction
 
@@ -11,6 +22,15 @@ Our Hospital Management System Care and Cure is designed to streamline and optim
 The AI chatbot serves as a virtual guide, assisting patients with inquiries, providing information about services, and offering support throughout their healthcare journey. Our goal is to enhance efficiency, accuracy, and patient care within healthcare facilities, providing a seamless experience for both medical staff and patients.
 
 ![Hospital Management System](Hackfest.jpg)
+
+## Tech Stacks
+- Frontend: HTML, CSS, JavaScript, 
+- Backend: PHP
+- Database: MySQL
+- Other Tools: Git, GitHub
+
+
+## Tracks : Health Tech
 
 ## Features
 - As part of our project we have maintained **3 modules**, which are:
@@ -21,7 +41,7 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 - **Patient Management**: Easily manage patient records, including personal information, medical history, and treatment plans.
 - **Appointment Scheduling**: Efficiently schedule and manage patient appointments with doctors.
 
-## Usage
+## Installation Guide
 1. Fork and clone the repository
 2. copy "hospital" folder
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
@@ -32,9 +52,10 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 
 ## Contributors
 - Deepmalya Acharya (L)
+- Sarbojit Poddar
 - Pushan Mukhopadhay
 - Ankan Kundu
-- Sarbojit Poddar
+
 
 
 
