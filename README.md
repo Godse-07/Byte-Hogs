@@ -1,5 +1,7 @@
 # URECKATHON (Track: Health Tech)
 
+## Live Website Link : https://godse.online/
+
 ## Hospital Management System Care and Cure
 
 Welcome to the Hospital Management System **Care and Cure** repository, developed by **Byte Hogs**.
@@ -41,7 +43,7 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 - **Patient Management**: Easily manage patient records, including personal information, medical history, and treatment plans.
 - **Appointment Scheduling**: Efficiently schedule and manage patient appointments with doctors.
 
-## Live Website Link : https://godse.online/
+
 
 ## Installation Guide
 1. Fork and clone the repository
